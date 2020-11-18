@@ -174,7 +174,6 @@ ZT2_1000LVG <- data_ZT2_orderedBioVar[1:1000,]
 
 
 
-
 ## plot
 
 plot( data_ZT2$Mean,data_ZT2$CV2, xaxt="n", yaxt="n", log="xy",
