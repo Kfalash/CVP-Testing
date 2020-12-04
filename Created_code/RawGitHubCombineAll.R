@@ -1036,4 +1036,4 @@ ZT24 <- cbind(ZT24_1count,ZT24_2count,ZT24_4count,ZT24_5count,ZT24_6count,ZT24_7
 
 count <- cbind(ZT2,ZT4,ZT6,ZT8,ZT10,ZT12,ZT14,ZT16,ZT18,ZT20,ZT22,ZT24)
 genecount <- count[-c(32635:33652),] #Removes ECRR and TRanscript counts, leaving only gene counts.
-write.table(count, file="lab/RawData/finalcountGithubGenesALL.txt", sep='\t')
+write.table(genecount, file="lab/RawData/finalcountGithubGenesALL.txt", sep='\t')
