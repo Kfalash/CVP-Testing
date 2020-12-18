@@ -1,0 +1,49 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	2854
+GO biological process complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (357)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+photosynthesis, light harvesting in photosystem II (GO:0009769)	10	6	.13	+	46.08	8.87E-05
+syncytium formation (GO:0006949)	16	5	.21	+	24.00	1.67E-02
+response to insect (GO:0009625)	31	8	.40	+	19.82	8.55E-05
+S-glycoside biosynthetic process (GO:0016144)	39	10	.51	+	19.69	1.63E-06
+glucosinolate biosynthetic process (GO:0019761)	39	10	.51	+	19.69	1.63E-06
+glycosinolate biosynthetic process (GO:0019758)	39	10	.51	+	19.69	1.63E-06
+photosynthetic electron transport chain (GO:0009767)	46	8	.60	+	13.36	1.22E-03
+photosynthesis, light harvesting (GO:0009765)	42	7	.55	+	12.80	8.43E-03
+glycosyl compound biosynthetic process (GO:1901659)	62	10	.81	+	12.39	8.20E-05
+photosynthesis, light reaction (GO:0019684)	128	16	1.67	+	9.60	1.76E-07
+photosynthesis (GO:0015979)	189	22	2.46	+	8.94	1.61E-10
+S-glycoside metabolic process (GO:0016143)	112	13	1.46	+	8.91	2.52E-05
+glucosinolate metabolic process (GO:0019760)	112	13	1.46	+	8.91	2.52E-05
+glycosinolate metabolic process (GO:0019757)	112	13	1.46	+	8.91	2.52E-05
+secondary metabolite biosynthetic process (GO:0044550)	144	16	1.88	+	8.53	8.62E-07
+sulfur compound biosynthetic process (GO:0044272)	142	14	1.85	+	7.57	4.57E-05
+secondary metabolic process (GO:0019748)	303	25	3.95	+	6.34	3.85E-09
+glycosyl compound metabolic process (GO:1901657)	187	13	2.44	+	5.34	6.13E-03
+response to oxidative stress (GO:0006979)	460	26	5.99	+	4.34	3.35E-06
+generation of precursor metabolites and energy (GO:0006091)	378	21	4.92	+	4.27	1.81E-04
+sulfur compound metabolic process (GO:0006790)	363	19	4.73	+	4.02	1.82E-03
+oxidation-reduction process (GO:0055114)	768	27	10.00	+	2.70	1.50E-02
+response to inorganic substance (GO:0010035)	914	30	11.90	+	2.52	1.65E-02
+response to hormone (GO:0009725)	1241	38	16.16	+	2.35	6.82E-03
+response to endogenous stimulus (GO:0009719)	1271	38	16.55	+	2.30	9.35E-03
+response to oxygen-containing compound (GO:1901700)	1514	43	19.71	+	2.18	6.67E-03
+response to stress (GO:0006950)	3106	85	40.45	+	2.10	1.36E-07
+response to external stimulus (GO:0009605)	1513	41	19.70	+	2.08	3.68E-02
+response to organic substance (GO:0010033)	1705	46	22.20	+	2.07	1.30E-02
+response to chemical (GO:0042221)	2681	69	34.91	+	1.98	1.58E-04
+response to stimulus (GO:0050896)	5578	128	72.63	+	1.76	6.30E-08
+Unclassified (UNCLASSIFIED)	5428	68	70.68	-	.96	0.00E00
+macromolecule metabolic process (GO:0043170)	5496	39	71.57	-	.54	1.97E-02
+protein modification process (GO:0036211)	2514	9	32.74	-	.27	2.84E-03
+cellular protein modification process (GO:0006464)	2514	9	32.74	-	.27	2.84E-03
+macromolecule modification (GO:0043412)	2832	9	36.88	-	.24	8.56E-05
