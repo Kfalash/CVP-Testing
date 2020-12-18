@@ -1,0 +1,139 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	2854
+GO biological process complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (852)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+photosynthesis, light harvesting in photosystem II (GO:0009769)	10	9	.31	+	28.96	3.96E-06
+cellular response to iron ion starvation (GO:0010106)	8	6	.25	+	24.13	5.13E-03
+nitrate assimilation (GO:0042128)	11	6	.34	+	17.55	1.96E-02
+nitrate metabolic process (GO:0042126)	11	6	.34	+	17.55	1.96E-02
+response to iron ion starvation (GO:1990641)	12	6	.37	+	16.09	2.86E-02
+photosynthesis, light harvesting in photosystem I (GO:0009768)	24	11	.75	+	14.75	1.07E-05
+response to iron ion (GO:0010039)	23	8	.71	+	11.19	8.02E-03
+cellular iron ion homeostasis (GO:0006879)	39	13	1.21	+	10.73	9.46E-06
+photosynthesis, light harvesting (GO:0009765)	42	14	1.31	+	10.73	2.35E-06
+cellular transition metal ion homeostasis (GO:0046916)	61	18	1.90	+	9.50	4.94E-08
+response to insect (GO:0009625)	31	9	.96	+	9.34	6.63E-03
+iron ion homeostasis (GO:0055072)	57	16	1.77	+	9.03	1.22E-06
+toxin catabolic process (GO:0009407)	46	12	1.43	+	8.39	3.70E-04
+S-glycoside biosynthetic process (GO:0016144)	39	10	1.21	+	8.25	4.74E-03
+glucosinolate biosynthetic process (GO:0019761)	39	10	1.21	+	8.25	4.74E-03
+glycosinolate biosynthetic process (GO:0019758)	39	10	1.21	+	8.25	4.74E-03
+toxin metabolic process (GO:0009404)	59	15	1.83	+	8.18	1.35E-05
+transition metal ion homeostasis (GO:0055076)	95	22	2.95	+	7.45	1.74E-08
+detoxification (GO:0098754)	100	21	3.11	+	6.76	2.56E-07
+phenylpropanoid metabolic process (GO:0009698)	109	21	3.39	+	6.20	1.02E-06
+response to toxic substance (GO:0009636)	120	23	3.73	+	6.17	1.63E-07
+secondary metabolite biosynthetic process (GO:0044550)	144	27	4.48	+	6.03	5.54E-09
+xyloglucan metabolic process (GO:0010411)	59	11	1.83	+	6.00	2.13E-02
+photosynthesis, light reaction (GO:0019684)	128	23	3.98	+	5.78	5.05E-07
+glycosyl compound biosynthetic process (GO:1901659)	62	11	1.93	+	5.71	3.23E-02
+phenylpropanoid biosynthetic process (GO:0009699)	88	15	2.73	+	5.48	1.35E-03
+secondary metabolic process (GO:0019748)	303	51	9.42	+	5.42	4.83E-17
+S-glycoside metabolic process (GO:0016143)	112	17	3.48	+	4.88	1.03E-03
+glucosinolate metabolic process (GO:0019760)	112	17	3.48	+	4.88	1.03E-03
+glycosinolate metabolic process (GO:0019757)	112	17	3.48	+	4.88	1.03E-03
+response to starvation (GO:0042594)	195	28	6.06	+	4.62	5.80E-07
+photosynthesis (GO:0015979)	189	27	5.87	+	4.60	1.35E-06
+response to nutrient levels (GO:0031667)	222	31	6.90	+	4.49	1.18E-07
+cellular metal ion homeostasis (GO:0006875)	131	18	4.07	+	4.42	1.75E-03
+metal ion homeostasis (GO:0055065)	183	24	5.69	+	4.22	5.50E-05
+response to extracellular stimulus (GO:0009991)	262	34	8.14	+	4.18	8.16E-08
+response to oxidative stress (GO:0006979)	460	58	14.30	+	4.06	2.46E-14
+cellular cation homeostasis (GO:0030003)	159	20	4.94	+	4.05	1.51E-03
+cellular response to starvation (GO:0009267)	160	20	4.97	+	4.02	1.65E-03
+cellular ion homeostasis (GO:0006873)	169	21	5.25	+	4.00	9.46E-04
+cellular response to nutrient levels (GO:0031669)	174	20	5.41	+	3.70	5.39E-03
+response to metal ion (GO:0010038)	433	48	13.46	+	3.57	1.36E-09
+cation homeostasis (GO:0055080)	236	26	7.33	+	3.55	3.47E-04
+cell wall macromolecule metabolic process (GO:0044036)	173	19	5.38	+	3.53	1.76E-02
+inorganic ion homeostasis (GO:0098771)	250	27	7.77	+	3.48	2.88E-04
+cellular response to extracellular stimulus (GO:0031668)	213	23	6.62	+	3.47	2.52E-03
+cellular chemical homeostasis (GO:0055082)	195	21	6.06	+	3.47	7.73E-03
+cellular homeostasis (GO:0019725)	275	29	8.55	+	3.39	1.57E-04
+cellular response to external stimulus (GO:0071496)	219	23	6.81	+	3.38	3.89E-03
+ion homeostasis (GO:0050801)	290	30	9.01	+	3.33	1.37E-04
+cellular response to hypoxia (GO:0071456)	235	24	7.30	+	3.29	3.63E-03
+glycosyl compound metabolic process (GO:1901657)	187	19	5.81	+	3.27	4.84E-02
+cellular response to decreased oxygen levels (GO:0036294)	237	24	7.37	+	3.26	4.17E-03
+cellular response to oxygen levels (GO:0071453)	238	24	7.40	+	3.24	4.46E-03
+chemical homeostasis (GO:0048878)	415	41	12.90	+	3.18	1.71E-06
+response to cadmium ion (GO:0046686)	315	31	9.79	+	3.17	2.30E-04
+sulfur compound metabolic process (GO:0006790)	363	35	11.28	+	3.10	5.44E-05
+response to hypoxia (GO:0001666)	261	25	8.11	+	3.08	6.37E-03
+response to decreased oxygen levels (GO:0036293)	265	25	8.24	+	3.04	8.18E-03
+response to oxygen levels (GO:0070482)	267	25	8.30	+	3.01	9.24E-03
+response to inorganic substance (GO:0010035)	914	85	28.40	+	2.99	1.96E-14
+generation of precursor metabolites and energy (GO:0006091)	378	35	11.75	+	2.98	1.37E-04
+homeostatic process (GO:0042592)	537	49	16.69	+	2.94	4.51E-07
+response to water (GO:0009415)	365	31	11.34	+	2.73	4.35E-03
+response to water deprivation (GO:0009414)	356	30	11.06	+	2.71	7.40E-03
+cell wall organization or biogenesis (GO:0071554)	507	42	15.76	+	2.67	1.20E-04
+response to cold (GO:0009409)	415	33	12.90	+	2.56	1.05E-02
+response to temperature stimulus (GO:0009266)	617	49	19.17	+	2.56	3.44E-05
+response to acid chemical (GO:0001101)	397	31	12.34	+	2.51	2.66E-02
+response to external stimulus (GO:0009605)	1513	117	47.02	+	2.49	5.05E-15
+response to chemical (GO:0042221)	2681	199	83.32	+	2.39	2.36E-26
+response to stress (GO:0006950)	3106	224	96.52	+	2.32	1.09E-28
+cellular response to chemical stimulus (GO:0070887)	1085	78	33.72	+	2.31	1.55E-07
+oxidation-reduction process (GO:0055114)	768	55	23.87	+	2.30	1.16E-04
+cellular response to stress (GO:0033554)	1120	80	34.81	+	2.30	9.80E-08
+response to external biotic stimulus (GO:0043207)	1097	78	34.09	+	2.29	2.13E-07
+response to other organism (GO:0051707)	1097	78	34.09	+	2.29	2.13E-07
+response to biotic stimulus (GO:0009607)	1098	78	34.12	+	2.29	2.20E-07
+response to bacterium (GO:0009617)	508	36	15.79	+	2.28	3.30E-02
+interspecies interaction between organisms (GO:0044419)	1125	78	34.96	+	2.23	6.62E-07
+response to light stimulus (GO:0009416)	713	48	22.16	+	2.17	6.86E-03
+regulation of biological quality (GO:0065008)	972	64	30.21	+	2.12	2.15E-04
+response to abiotic stimulus (GO:0009628)	2131	139	66.22	+	2.10	1.80E-12
+response to radiation (GO:0009314)	738	48	22.93	+	2.09	1.15E-02
+oxoacid metabolic process (GO:0043436)	1016	66	31.57	+	2.09	2.46E-04
+organic acid metabolic process (GO:0006082)	1019	66	31.67	+	2.08	2.56E-04
+response to stimulus (GO:0050896)	5578	353	173.35	+	2.04	2.12E-39
+response to hormone (GO:0009725)	1241	78	38.57	+	2.02	5.63E-05
+response to oxygen-containing compound (GO:1901700)	1514	95	47.05	+	2.02	1.13E-06
+response to organic substance (GO:0010033)	1705	105	52.99	+	1.98	3.89E-07
+response to endogenous stimulus (GO:0009719)	1271	78	39.50	+	1.97	1.31E-04
+defense response (GO:0006952)	953	56	29.62	+	1.89	3.66E-02
+small molecule metabolic process (GO:0044281)	1520	87	47.24	+	1.84	3.22E-04
+cellular response to stimulus (GO:0051716)	2511	123	78.03	+	1.58	3.07E-03
+Unclassified (UNCLASSIFIED)	5428	156	168.68	-	.92	0.00E00
+primary metabolic process (GO:0044238)	7219	151	224.34	-	.67	1.82E-05
+nitrogen compound metabolic process (GO:0006807)	6150	128	191.12	-	.67	3.46E-04
+regulation of nitrogen compound metabolic process (GO:0051171)	2741	49	85.18	-	.58	4.23E-02
+regulation of primary metabolic process (GO:0080090)	2825	50	87.79	-	.57	2.44E-02
+regulation of macromolecule metabolic process (GO:0060255)	3058	52	95.03	-	.55	2.50E-03
+regulation of gene expression (GO:0010468)	2679	45	83.25	-	.54	8.40E-03
+cellular macromolecule metabolic process (GO:0044260)	4426	70	137.55	-	.51	5.92E-08
+phosphorus metabolic process (GO:0006793)	1903	28	59.14	-	.47	1.89E-02
+macromolecule metabolic process (GO:0043170)	5496	79	170.80	-	.46	1.02E-13
+cellular protein metabolic process (GO:0044267)	3388	44	105.29	-	.42	1.14E-08
+phosphate-containing compound metabolic process (GO:0006796)	1858	24	57.74	-	.42	1.68E-03
+protein metabolic process (GO:0019538)	3544	45	110.14	-	.41	9.63E-10
+nucleobase-containing compound metabolic process (GO:0006139)	2093	26	65.04	-	.40	9.27E-05
+gene expression (GO:0010467)	1608	19	49.97	-	.38	1.91E-03
+organelle organization (GO:0006996)	1691	19	52.55	-	.36	3.31E-04
+protein modification process (GO:0036211)	2514	23	78.13	-	.29	3.66E-10
+cellular protein modification process (GO:0006464)	2514	23	78.13	-	.29	3.66E-10
+phosphorylation (GO:0016310)	1216	10	37.79	-	.26	3.78E-04
+macromolecule modification (GO:0043412)	2832	23	88.01	-	.26	1.38E-13
+nitrogen compound transport (GO:0071705)	849	6	26.38	-	.23	1.04E-02
+RNA metabolic process (GO:0016070)	1294	7	40.21	-	.17	6.21E-07
+nucleic acid metabolic process (GO:0090304)	1705	9	52.99	-	.17	2.96E-10
+RNA processing (GO:0006396)	787	4	24.46	-	.16	2.24E-03
+protein phosphorylation (GO:0006468)	1037	5	32.23	-	.16	1.56E-05
+peptide transport (GO:0015833)	640	3	19.89	-	.15	1.85E-02
+protein transport (GO:0015031)	606	2	18.83	-	.11	8.71E-03
+establishment of protein localization (GO:0045184)	617	2	19.17	-	.10	5.94E-03
+protein localization (GO:0008104)	732	2	22.75	-	.09	2.11E-04
+chromosome organization (GO:0051276)	501	1	15.57	-	.06	2.20E-02
+intracellular protein transport (GO:0006886)	552	1	17.15	-	.06	4.85E-03
+cellular protein localization (GO:0034613)	658	1	20.45	-	.05	1.46E-04

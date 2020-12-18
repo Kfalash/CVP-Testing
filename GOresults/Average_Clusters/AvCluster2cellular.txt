@@ -1,0 +1,57 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	680
+GO cellular component complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (852)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+photosystem I (GO:0009522)	22	9	.68	+	13.16	1.49E-04
+plastid large ribosomal subunit (GO:0000311)	15	6	.47	+	12.87	1.84E-02
+plastid ribosome (GO:0009547)	29	11	.90	+	12.21	1.24E-05
+chloroplast thylakoid membrane protein complex (GO:0098807)	24	9	.75	+	12.07	2.69E-04
+photosystem (GO:0009521)	63	17	1.96	+	8.68	1.39E-07
+plastoglobule (GO:0010287)	76	20	2.36	+	8.47	5.22E-09
+photosystem II (GO:0009523)	44	11	1.37	+	8.04	4.24E-04
+secretory vesicle (GO:0099503)	170	33	5.28	+	6.25	1.92E-12
+organellar ribosome (GO:0000313)	75	12	2.33	+	5.15	7.89E-03
+plant-type cell wall (GO:0009505)	233	37	7.24	+	5.11	1.09E-11
+cell wall (GO:0005618)	565	71	17.56	+	4.04	1.22E-18
+external encapsulating structure (GO:0030312)	567	71	17.62	+	4.03	1.47E-18
+chloroplast thylakoid membrane (GO:0009535)	358	39	11.13	+	3.51	8.20E-08
+plastid thylakoid membrane (GO:0055035)	363	39	11.28	+	3.46	1.19E-07
+photosynthetic membrane (GO:0034357)	395	40	12.28	+	3.26	3.42E-07
+thylakoid membrane (GO:0042651)	390	39	12.12	+	3.22	7.83E-07
+chloroplast thylakoid (GO:0009534)	443	42	13.77	+	3.05	7.85E-07
+plastid thylakoid (GO:0031976)	446	42	13.86	+	3.03	9.44E-07
+thylakoid (GO:0009579)	537	48	16.69	+	2.88	3.13E-07
+apoplast (GO:0048046)	297	26	9.23	+	2.82	4.33E-03
+plasmodesma (GO:0009506)	944	76	29.34	+	2.59	3.10E-10
+cell-cell junction (GO:0005911)	944	76	29.34	+	2.59	3.10E-10
+symplast (GO:0055044)	944	76	29.34	+	2.59	3.10E-10
+anchoring junction (GO:0070161)	944	76	29.34	+	2.59	3.10E-10
+cell junction (GO:0030054)	944	76	29.34	+	2.59	3.10E-10
+plastid stroma (GO:0009532)	731	58	22.72	+	2.55	3.50E-07
+chloroplast stroma (GO:0009570)	719	53	22.34	+	2.37	2.78E-05
+extracellular region (GO:0005576)	3128	205	97.21	+	2.11	2.52E-21
+vacuole (GO:0005773)	1083	66	33.66	+	1.96	4.00E-04
+cell periphery (GO:0071944)	4012	196	124.68	+	1.57	1.49E-07
+plastid (GO:0009536)	5432	233	168.81	+	1.38	1.43E-04
+chloroplast (GO:0009507)	5013	215	155.79	+	1.38	5.18E-04
+membrane (GO:0016020)	5493	230	170.70	+	1.35	9.89E-04
+Unclassified (UNCLASSIFIED)	1871	60	58.14	+	1.03	0.00E00
+intracellular anatomical structure (GO:0005622)	21464	601	667.03	-	.90	1.45E-04
+membrane-bounded organelle (GO:0043227)	19546	522	607.43	-	.86	4.03E-07
+intracellular organelle (GO:0043229)	19690	524	611.90	-	.86	1.17E-07
+organelle (GO:0043226)	19739	525	613.42	-	.86	8.38E-08
+intracellular membrane-bounded organelle (GO:0043231)	19384	511	602.39	-	.85	3.22E-08
+nucleus (GO:0005634)	10540	193	327.55	-	.59	3.13E-19
+nuclear lumen (GO:0031981)	1222	14	37.98	-	.37	8.29E-03
+catalytic complex (GO:1902494)	1168	9	36.30	-	.25	7.88E-05
+transferase complex (GO:1990234)	698	3	21.69	-	.14	1.09E-03
+chromosome (GO:0005694)	545	2	16.94	-	.12	8.55E-03

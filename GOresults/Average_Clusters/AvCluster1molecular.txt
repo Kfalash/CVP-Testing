@@ -1,0 +1,18 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1771
+GO molecular function complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (124)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+copper ion binding (GO:0005507)	193	8	.87	+	9.16	6.62E-03
+transition metal ion binding (GO:0046914)	1178	18	5.33	+	3.38	1.23E-02
+metal ion binding (GO:0046872)	1610	22	7.28	+	3.02	6.26E-03
+cation binding (GO:0043169)	1637	22	7.40	+	2.97	8.15E-03
+Unclassified (UNCLASSIFIED)	5471	21	24.74	-	.85	0.00E00

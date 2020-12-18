@@ -1,0 +1,33 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	680
+GO cellular component complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (287)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+secretory vesicle (GO:0099503)	170	16	1.78	+	8.99	8.22E-08
+plant-type cell wall (GO:0009505)	233	16	2.44	+	6.56	5.80E-06
+cell wall (GO:0005618)	565	34	5.91	+	5.75	6.62E-13
+external encapsulating structure (GO:0030312)	567	34	5.94	+	5.73	7.31E-13
+apoplast (GO:0048046)	297	14	3.11	+	4.50	3.53E-03
+plasmodesma (GO:0009506)	944	28	9.88	+	2.83	8.28E-04
+cell-cell junction (GO:0005911)	944	28	9.88	+	2.83	8.28E-04
+symplast (GO:0055044)	944	28	9.88	+	2.83	8.28E-04
+anchoring junction (GO:0070161)	944	28	9.88	+	2.83	8.28E-04
+cell junction (GO:0030054)	944	28	9.88	+	2.83	8.28E-04
+vacuole (GO:0005773)	1083	27	11.34	+	2.38	3.18E-02
+extracellular region (GO:0005576)	3128	70	32.74	+	2.14	7.46E-07
+cell periphery (GO:0071944)	4012	74	42.00	+	1.76	6.20E-04
+Unclassified (UNCLASSIFIED)	1871	17	19.59	-	.87	0.00E00
+nucleus (GO:0005634)	10540	76	110.34	-	.69	1.62E-02
+protein-containing complex (GO:0032991)	2958	5	30.97	-	.16	4.54E-06
+nuclear lumen (GO:0031981)	1222	1	12.79	-	.08	4.32E-02
+intracellular organelle lumen (GO:0070013)	1386	1	14.51	-	.07	9.65E-03
+membrane-enclosed lumen (GO:0031974)	1386	1	14.51	-	.07	9.65E-03
+organelle lumen (GO:0043233)	1386	1	14.51	-	.07	9.65E-03

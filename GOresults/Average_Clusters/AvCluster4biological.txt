@@ -1,0 +1,87 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	2854
+GO biological process complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (287)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+cellular response to sulfur starvation (GO:0010438)	7	4	.07	+	54.59	1.00E-02
+anthocyanin-containing compound biosynthetic process (GO:0009718)	18	7	.19	+	37.15	1.39E-05
+anthocyanin-containing compound metabolic process (GO:0046283)	24	8	.25	+	31.84	2.91E-06
+cellular oxidant detoxification (GO:0098869)	25	5	.26	+	19.11	3.79E-02
+cellular detoxification (GO:1990748)	39	7	.41	+	17.15	1.29E-03
+cellular response to toxic substance (GO:0097237)	40	7	.42	+	16.72	1.50E-03
+flavonoid biosynthetic process (GO:0009813)	54	8	.57	+	14.15	7.15E-04
+flavonoid metabolic process (GO:0009812)	63	9	.66	+	13.65	1.66E-04
+anion homeostasis (GO:0055081)	43	6	.45	+	13.33	3.22E-02
+detoxification (GO:0098754)	100	12	1.05	+	11.46	6.10E-06
+systemic acquired resistance (GO:0009627)	62	7	.65	+	10.79	2.12E-02
+response to toxic substance (GO:0009636)	120	13	1.26	+	10.35	4.06E-06
+response to hydrogen peroxide (GO:0042542)	70	7	.73	+	9.55	4.40E-02
+cellular response to hypoxia (GO:0071456)	235	22	2.46	+	8.94	1.16E-10
+cellular response to decreased oxygen levels (GO:0036294)	237	22	2.48	+	8.87	1.36E-10
+cellular response to oxygen levels (GO:0071453)	238	22	2.49	+	8.83	1.47E-10
+response to jasmonic acid (GO:0009753)	175	16	1.83	+	8.73	5.13E-07
+response to hypoxia (GO:0001666)	261	22	2.73	+	8.05	8.28E-10
+response to decreased oxygen levels (GO:0036293)	265	22	2.77	+	7.93	1.10E-09
+response to oxygen levels (GO:0070482)	267	22	2.80	+	7.87	1.27E-09
+response to reactive oxygen species (GO:0000302)	160	13	1.67	+	7.76	9.90E-05
+S-glycoside metabolic process (GO:0016143)	112	9	1.17	+	7.68	1.42E-02
+glucosinolate metabolic process (GO:0019760)	112	9	1.17	+	7.68	1.42E-02
+glycosinolate metabolic process (GO:0019757)	112	9	1.17	+	7.68	1.42E-02
+response to salicylic acid (GO:0009751)	155	12	1.62	+	7.40	5.46E-04
+defense response to fungus (GO:0050832)	252	16	2.64	+	6.07	6.86E-05
+secondary metabolic process (GO:0019748)	303	19	3.17	+	5.99	3.95E-06
+response to wounding (GO:0009611)	227	14	2.38	+	5.89	7.28E-04
+defense response, incompatible interaction (GO:0009814)	181	11	1.89	+	5.81	1.62E-02
+glycosyl compound metabolic process (GO:1901657)	187	11	1.96	+	5.62	2.18E-02
+response to oxidative stress (GO:0006979)	460	27	4.82	+	5.61	5.10E-09
+response to organic cyclic compound (GO:0014070)	280	16	2.93	+	5.46	2.71E-04
+response to nitrogen compound (GO:1901698)	301	15	3.15	+	4.76	3.55E-03
+response to fungus (GO:0009620)	350	17	3.66	+	4.64	9.70E-04
+sulfur compound metabolic process (GO:0006790)	363	17	3.80	+	4.47	1.57E-03
+response to water deprivation (GO:0009414)	356	16	3.73	+	4.29	5.67E-03
+immune response (GO:0006955)	313	14	3.28	+	4.27	2.62E-02
+response to water (GO:0009415)	365	16	3.82	+	4.19	7.71E-03
+cellular response to chemical stimulus (GO:0070887)	1085	47	11.36	+	4.14	1.17E-12
+immune system process (GO:0002376)	352	15	3.68	+	4.07	2.19E-02
+response to cold (GO:0009409)	415	17	4.34	+	3.91	9.00E-03
+response to acid chemical (GO:0001101)	397	16	4.16	+	3.85	2.14E-02
+response to hormone (GO:0009725)	1241	49	12.99	+	3.77	8.21E-12
+response to oxygen-containing compound (GO:1901700)	1514	59	15.85	+	3.72	1.25E-14
+defense response to bacterium (GO:0042742)	414	16	4.33	+	3.69	3.53E-02
+cellular response to hormone stimulus (GO:0032870)	492	19	5.15	+	3.69	5.44E-03
+response to endogenous stimulus (GO:0009719)	1271	49	13.31	+	3.68	1.99E-11
+response to inorganic substance (GO:0010035)	914	35	9.57	+	3.66	2.53E-07
+response to abscisic acid (GO:0009737)	497	19	5.20	+	3.65	6.27E-03
+response to salt stress (GO:0009651)	447	17	4.68	+	3.63	2.31E-02
+response to alcohol (GO:0097305)	501	19	5.24	+	3.62	7.01E-03
+response to chemical (GO:0042221)	2681	100	28.07	+	3.56	9.10E-27
+interspecies interaction between organisms (GO:0044419)	1125	41	11.78	+	3.48	2.31E-08
+cellular response to endogenous stimulus (GO:0071495)	524	19	5.49	+	3.46	1.31E-02
+response to osmotic stress (GO:0006970)	528	19	5.53	+	3.44	1.45E-02
+defense response to other organism (GO:0098542)	807	29	8.45	+	3.43	4.50E-05
+response to lipid (GO:0033993)	672	24	7.03	+	3.41	9.22E-04
+defense response (GO:0006952)	953	34	9.98	+	3.41	2.81E-06
+response to external biotic stimulus (GO:0043207)	1097	39	11.48	+	3.40	1.60E-07
+response to other organism (GO:0051707)	1097	39	11.48	+	3.40	1.60E-07
+response to biotic stimulus (GO:0009607)	1098	39	11.49	+	3.39	1.64E-07
+response to bacterium (GO:0009617)	508	18	5.32	+	3.38	3.16E-02
+response to organic substance (GO:0010033)	1705	60	17.85	+	3.36	6.06E-13
+response to external stimulus (GO:0009605)	1513	52	15.84	+	3.28	2.15E-10
+response to abiotic stimulus (GO:0009628)	2131	71	22.31	+	3.18	8.98E-15
+cellular response to stress (GO:0033554)	1120	36	11.72	+	3.07	1.26E-05
+cellular response to organic substance (GO:0071310)	666	21	6.97	+	3.01	3.27E-02
+response to stress (GO:0006950)	3106	95	32.51	+	2.92	7.04E-19
+response to stimulus (GO:0050896)	5578	138	58.39	+	2.36	6.26E-22
+cellular response to stimulus (GO:0051716)	2511	58	26.29	+	2.21	4.02E-05
+Unclassified (UNCLASSIFIED)	5428	39	56.82	-	.69	0.00E00
+macromolecule metabolic process (GO:0043170)	5496	28	57.53	-	.49	1.01E-02
+cellular protein metabolic process (GO:0044267)	3388	13	35.47	-	.37	3.24E-02
+nucleic acid metabolic process (GO:0090304)	1705	2	17.85	-	.11	1.48E-02

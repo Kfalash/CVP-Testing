@@ -1,0 +1,15 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1771
+GO molecular function complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (287)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+oxidoreductase activity (GO:0016491)	1458	34	15.26	+	2.23	2.95E-02
+Unclassified (UNCLASSIFIED)	5471	45	57.27	-	.79	0.00E00

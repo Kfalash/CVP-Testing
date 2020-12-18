@@ -1,0 +1,32 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1771
+GO molecular function complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (852)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+chlorophyll binding (GO:0016168)	28	14	.87	+	16.09	1.96E-08
+xyloglucan:xyloglucosyl transferase activity (GO:0016762)	32	11	.99	+	11.06	7.38E-05
+peroxidase activity (GO:0004601)	111	31	3.45	+	8.99	5.76E-15
+oxidoreductase activity, acting on peroxide as acceptor (GO:0016684)	117	31	3.64	+	8.53	2.04E-14
+antioxidant activity (GO:0016209)	140	33	4.35	+	7.58	3.61E-14
+glutathione transferase activity (GO:0004364)	59	13	1.83	+	7.09	3.76E-04
+tetrapyrrole binding (GO:0046906)	404	62	12.56	+	4.94	1.45E-19
+heme binding (GO:0020037)	374	48	11.62	+	4.13	5.98E-12
+electron transfer activity (GO:0009055)	171	21	5.31	+	3.95	7.00E-04
+glucosyltransferase activity (GO:0046527)	190	22	5.90	+	3.73	9.27E-04
+transferase activity, transferring alkyl or aryl (other than methyl) groups (GO:0016765)	155	17	4.82	+	3.53	3.38E-02
+oxidoreductase activity (GO:0016491)	1458	131	45.31	+	2.89	7.35E-23
+Unclassified (UNCLASSIFIED)	5471	133	170.02	-	.78	0.00E00
+DNA binding (GO:0003677)	1606	22	49.91	-	.44	2.26E-02
+catalytic activity, acting on a protein (GO:0140096)	2377	30	73.87	-	.41	8.91E-06
+transferase activity, transferring phosphorus-containing groups (GO:0016772)	1415	10	43.97	-	.23	2.35E-06
+kinase activity (GO:0016301)	1200	8	37.29	-	.21	2.32E-05
+protein kinase activity (GO:0004672)	910	6	28.28	-	.21	1.74E-03
+phosphotransferase activity, alcohol group as acceptor (GO:0016773)	1069	7	33.22	-	.21	1.44E-04
