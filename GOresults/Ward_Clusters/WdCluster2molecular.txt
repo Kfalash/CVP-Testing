@@ -1,0 +1,22 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1771
+GO molecular function complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (543)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+peroxidase activity (GO:0004601)	111	19	2.20	+	8.64	1.60E-08
+oxidoreductase activity, acting on peroxide as acceptor (GO:0016684)	117	19	2.32	+	8.20	3.60E-08
+antioxidant activity (GO:0016209)	140	20	2.77	+	7.21	8.48E-08
+tetrapyrrole binding (GO:0046906)	404	29	8.00	+	3.62	1.67E-05
+heme binding (GO:0020037)	374	24	7.41	+	3.24	2.10E-03
+oxidoreductase activity (GO:0016491)	1458	74	28.88	+	2.56	9.01E-10
+Unclassified (UNCLASSIFIED)	5471	75	108.36	-	.69	0.00E00
+transferase activity, transferring phosphorus-containing groups (GO:0016772)	1415	6	28.03	-	.21	1.56E-03
+kinase activity (GO:0016301)	1200	5	23.77	-	.21	9.71E-03

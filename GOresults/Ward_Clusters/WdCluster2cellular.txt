@@ -1,0 +1,35 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	680
+GO cellular component complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (543)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+secretory vesicle (GO:0099503)	170	19	3.37	+	5.64	4.07E-06
+plant-type cell wall (GO:0009505)	233	24	4.61	+	5.20	1.88E-07
+cell wall (GO:0005618)	565	47	11.19	+	4.20	8.83E-13
+external encapsulating structure (GO:0030312)	567	47	11.23	+	4.19	9.99E-13
+plasmodesma (GO:0009506)	944	47	18.70	+	2.51	1.57E-05
+cell-cell junction (GO:0005911)	944	47	18.70	+	2.51	1.57E-05
+symplast (GO:0055044)	944	47	18.70	+	2.51	1.57E-05
+anchoring junction (GO:0070161)	944	47	18.70	+	2.51	1.57E-05
+cell junction (GO:0030054)	944	47	18.70	+	2.51	1.57E-05
+vacuole (GO:0005773)	1083	45	21.45	+	2.10	4.75E-03
+extracellular region (GO:0005576)	3128	121	61.95	+	1.95	9.50E-10
+cell periphery (GO:0071944)	4012	136	79.46	+	1.71	2.26E-07
+plasma membrane (GO:0005886)	3534	104	69.99	+	1.49	3.11E-02
+membrane (GO:0016020)	5493	155	108.79	+	1.42	2.11E-03
+Unclassified (UNCLASSIFIED)	1871	37	37.06	-	1.00	0.00E00
+intracellular membrane-bounded organelle (GO:0043231)	19384	332	383.92	-	.86	1.61E-03
+membrane-bounded organelle (GO:0043227)	19546	334	387.13	-	.86	8.58E-04
+intracellular organelle (GO:0043229)	19690	336	389.98	-	.86	5.79E-04
+organelle (GO:0043226)	19739	336	390.95	-	.86	3.34E-04
+nucleus (GO:0005634)	10540	139	208.75	-	.67	3.08E-07
+protein-containing complex (GO:0032991)	2958	26	58.59	-	.44	7.31E-04
+catalytic complex (GO:1902494)	1168	6	23.13	-	.26	3.37E-02

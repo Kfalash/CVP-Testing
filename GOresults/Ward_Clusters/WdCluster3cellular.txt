@@ -1,0 +1,19 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	680
+GO cellular component complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (145)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+plasmodesma (GO:0009506)	944	20	4.99	+	4.01	1.19E-04
+cell-cell junction (GO:0005911)	944	20	4.99	+	4.01	1.19E-04
+symplast (GO:0055044)	944	20	4.99	+	4.01	1.19E-04
+anchoring junction (GO:0070161)	944	20	4.99	+	4.01	1.19E-04
+cell junction (GO:0030054)	944	20	4.99	+	4.01	1.19E-04
+Unclassified (UNCLASSIFIED)	1871	9	9.90	-	.91	0.00E00

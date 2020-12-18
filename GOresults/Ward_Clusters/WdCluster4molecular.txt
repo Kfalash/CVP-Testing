@@ -1,0 +1,21 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1771
+GO molecular function complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (145)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+glutathione transferase activity (GO:0004364)	59	7	.31	+	22.43	1.03E-04
+copper ion binding (GO:0005507)	193	11	1.02	+	10.78	2.10E-05
+transferase activity, transferring alkyl or aryl (other than methyl) groups (GO:0016765)	155	7	.82	+	8.54	4.41E-02
+oxidoreductase activity (GO:0016491)	1458	28	7.71	+	3.63	6.22E-06
+transition metal ion binding (GO:0046914)	1178	21	6.23	+	3.37	2.33E-03
+metal ion binding (GO:0046872)	1610	25	8.52	+	2.94	2.46E-03
+cation binding (GO:0043169)	1637	25	8.66	+	2.89	3.30E-03
+Unclassified (UNCLASSIFIED)	5471	19	28.94	-	.66	0.00E00

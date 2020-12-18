@@ -1,0 +1,24 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09
+Analyzed List:	upload_1 (Arabidopsis thaliana)
+Reference List:	Arabidopsis thaliana (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1771
+GO molecular function complete	Arabidopsis thaliana - REFLIST (27416)	upload_1 (357)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity (GO:0045156)	11	5	.14	+	34.91	2.35E-03
+chlorophyll binding (GO:0016168)	28	8	.36	+	21.94	2.70E-05
+xyloglucan:xyloglucosyl transferase activity (GO:0016762)	32	6	.42	+	14.40	1.49E-02
+peroxidase activity (GO:0004601)	111	14	1.45	+	9.69	1.56E-06
+oxidoreductase activity, acting on peroxide as acceptor (GO:0016684)	117	14	1.52	+	9.19	2.91E-06
+antioxidant activity (GO:0016209)	140	15	1.82	+	8.23	3.06E-06
+tetrapyrrole binding (GO:0046906)	404	33	5.26	+	6.27	6.93E-13
+electron transfer activity (GO:0009055)	171	12	2.23	+	5.39	8.55E-03
+heme binding (GO:0020037)	374	25	4.87	+	5.13	1.66E-07
+oxidoreductase activity (GO:0016491)	1458	54	18.99	+	2.84	1.78E-08
+Unclassified (UNCLASSIFIED)	5471	66	71.24	-	.93	0.00E00
